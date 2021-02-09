@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Getir as a Back End Developer
 - 🌱 I’m currently learning Flutter
-- 💬 Ask me about everything that is related 
+- 💬 Ask me about everything
 - 📫 How to reach me: <a href="https://linkedin.com/in/eserdarguzel">LinkedIn</a>
 
 ![serdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=serdargu&show_icons=true&theme=radical) <br>
