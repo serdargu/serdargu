@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on Getir as a Back End Developer
 - 📫 You can reach me via <a href="https://linkedin.com/in/serdarguzel">LinkedIn</a>
 
-![serdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=serdargu&show_icons=true&theme=radical) <br>
-
 <!--
 **serdargu/serdargu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
